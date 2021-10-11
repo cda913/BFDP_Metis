@@ -2,7 +2,7 @@
 
 ### Background
 
-Maryson's, an online clothing retailer. They had 12,330 visits to their site over the course of the year; only 1,908 visits resulted in purchases. I would like to help them convert traffic to sales. 
+Maryson's, an online clothing retailer had 12,330 visits to their site over the course of the year; only 1,908 visits resulted in purchases. I would like to help them convert traffic to sales. 
 
 ### MVP
 
