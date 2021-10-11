@@ -13,5 +13,5 @@ Maryson's has released a limited description of their web traffic over the past 
 ### To Do
 
 - Determine if the other types of pages have a different pattern
-- Analyze the technical details
+- Analyze the technical details to see if they offer insights
 - Propose next steps
