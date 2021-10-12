@@ -10,7 +10,7 @@ We want to convert 5% of the number of non-purchasing visitors to purchasing vis
 
 ### Initial Visualization
 
-Maryson's has released only a limited description of their web traffic. The data is about the 12,330 visits and includes type of page(s) visited by each visitor (Administrative, Informational, or Product), overall length the visitor stayed on each the page types, and some technical details about the visits. Initial findings show people who are purchasing spend slightly longer, although this may be because they are purchasing.
+Maryson's has released only a limited description of their web traffic. The data is each of the 12,330 visits and includes type of page(s) visited by each visitor (Administrative, Informational, or Product), overall number of pages visited in each type, overall length the visitor stayed on each the page types, and some technical details about the visits. Initial findings show that on average, people who do not purchase still look at several pages.
 
 <img src="https://raw.githubusercontent.com/cda913/BFDP_Metis/main/MVP_graph.png" width="400" height="300" />
 
