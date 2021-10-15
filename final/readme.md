@@ -6,5 +6,5 @@
 
 [Analyzed Data](https://github.com/cda913/BFDP_Metis/blob/main/final/online_shoppers_intention-3.xlsx)
 
-[Tableau Figures](https://public.tableau.com/app/profile/c.aitkin/viz/webtrafficProblem/Sheet17)
+[Tableau Figures](https://public.tableau.com/app/profile/c.aitkin/viz/webtrafficProblem/Sheet10)
 
